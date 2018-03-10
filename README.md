@@ -3,8 +3,11 @@ Quick Start:
 ---
 
 Set up dependencies:
+
 `npm i -g serverless`
+
 `npm i`
+
 `brew install awscli` (or pip equivalent)
 
 Configure AWS:
