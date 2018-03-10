@@ -20,3 +20,7 @@ Follow the steps listed here: https://docs.aws.amazon.com/cli/latest/reference/c
 Deploy (example):
 
 `serverless deploy -v --profile bennycodes --env dev`
+
+Remove deployment (example):
+
+`serverless remove --profile bennycodes --env dev`

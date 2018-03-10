@@ -9,6 +9,7 @@
   "author": "Ben Balentine",
   "license": "ISC",
   "dependencies": {
-    "serverless": "^1.26.1"
+    "serverless": "^1.26.1",
+    "serverless-offline": "^3.18.0"
   }
 }
